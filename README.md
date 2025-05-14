@@ -30,7 +30,7 @@
    Steam\steamui\skins\
    ```
 
-3. Закиньте сюда папку с этим скином (например, `Cyberpunk2077`).
+3. Закиньте сюда папку с этим скином (в даном случае, `Cyberpunk2077`). https://github.com/ArtworkPunk/Steam/raw/refs/heads/main/Cyberpunk2077.zip
 
 4. Откройте Millennium через интерфейс Steam (появится в левом нижнем углу).
 
